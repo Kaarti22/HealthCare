@@ -8,15 +8,13 @@
 <h3>5. Buy Medicines</h3>
 <h3>6. Refer to Health Articles</h3>
 <h4>7. Here are some pictures of how this app looks: </h4>
-<div class="flex">
-    <img src="./app/src/main/res/drawable/login_photo.jpg"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg"/>
-</div>
-<div class="flex">
-    <img src="./app/src/main/res/drawable/login_photo.jpg"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg"/>
-</div>
+<p float="left">
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="100"/>
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="100"/>
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="100"/>
+</p>
+<p float="left">
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="100"/>
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="100"/>
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="100"/>
+</p>
