@@ -9,12 +9,17 @@
 <h3>6. Refer to Health Articles</h3>
 <h4>7. Here are some pictures of how this app looks: </h4>
 <p float="left">
-    <img src="./app/src/main/res/drawable/login_photo.jpg" width="250"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg" width="250"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg" width="250"/>
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="300">
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="300">
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="300">
 </p>
 <p float="left">
-    <img src="./app/src/main/res/drawable/login_photo.jpg" width="250"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg" width="250"/>
-    <img src="./app/src/main/res/drawable/login_photo.jpg" width="250"/>
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="300">
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="300">
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="300">
+</p>
+<p float="left">
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="300">
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="300">
+    <img src="./app/src/main/res/drawable/login_photo.jpg" width="300">
 </p>
